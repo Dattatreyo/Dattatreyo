@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Dattatreyo Bose!
-<img src="https://github.com/Dattatreyo/Dattatreyo/blob/main/assets/lain.gif" alt="Lain" width="150" height="150" />
+<img src="https://github.com/Dattatreyo/Dattatreyo/blob/main/assets/lain.gif" alt="Lain" align="right" />
 <pre>
     💼 B.Tech UG
     💻 Ml • Cloud • Neural Networks
