@@ -6,3 +6,4 @@
     📖 Software architecture • Distributed systems
     🎮 Games • Anime • Code • Art • Manga
 </pre>
+![Dattatreyo's GitHub stats](https://readmestat-vubp.vercel.app/api?username=Dattatreyo&show_icons=true&theme=tokyonight)
