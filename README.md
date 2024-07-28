@@ -7,6 +7,6 @@
     🎮 Games • Anime • Code • Art • Manga
 </pre>
 
+![Top Langs](https://readmestat-vubp.vercel.app/api/top-langs/?username=Dattatreyo&layout=donut)
 ![Dattatreyo's GitHub stats](https://readmestat-vubp.vercel.app/api?username=Dattatreyo&show_icons=true&theme=calm_pink)
 
-![Top Langs](https://readmestat-vubp.vercel.app/api/top-langs/?username=Dattatreyo&layout=donut)
