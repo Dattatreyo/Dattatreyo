@@ -7,5 +7,7 @@
     🎮 Games • Anime • Code • Art • Manga
 </pre>
 
+[![Holopin board](https://holopin.me/dattatreyo)](https://holopin.io/@dattatreyo)
+
 ![Top Langs](https://readmestat-vubp.vercel.app/api/top-langs/?username=Dattatreyo&layout=donut&exclude_repo=readmestat,Dattatreyo.github.io)
 ![Dattatreyo's GitHub stats](https://readmestat-vubp.vercel.app/api?username=Dattatreyo&show_icons=true&theme=calm_pink)
