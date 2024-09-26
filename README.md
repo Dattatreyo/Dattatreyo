@@ -7,7 +7,7 @@
     🎮 Games • Anime • Code • Art • Manga
 </pre>
 
-[![Holopin Badge](https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp)](https://holopin.io/@dattatreyo)
+[<img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Holopin Badge" width="150"/>](https://holopin.io/@dattatreyo)
 
 ![Top Langs](https://readmestat-vubp.vercel.app/api/top-langs/?username=Dattatreyo&layout=donut&exclude_repo=readmestat,Dattatreyo.github.io)
 ![Dattatreyo's GitHub stats](https://readmestat-vubp.vercel.app/api?username=Dattatreyo&show_icons=true&theme=calm_pink)
